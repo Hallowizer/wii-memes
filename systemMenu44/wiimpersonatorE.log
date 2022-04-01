@@ -1,0 +1,586 @@
+************************************************************************
+*********************** Wii System Update Report ***********************
+************************************************************************
+
+Region: EUR
+
+Titles added:   2
+Titles changed: 8
+Titles removed: 1
+
+************************** SUMMARY OF CHANGES **************************
+
+====== Titles Added ======
+
+IOS63
+ Title ID: 00000001-0000003f
+ Version: 0x1820
+ Size: 2179372
+ Contents: 19 (of which 18 are shared)
+
+EULA hidden channel
+ Title ID: 00010008-48414b41
+ Version: 0x   4
+ Size: 9355264
+ Contents: 6 (of which 2 are shared)
+
+
+====== Titles Changed ======
+
+boot2
+ Title ID: 00000001-00000001
+ Version: 0x   6
+ Size: 196608
+ Contents: 1 (of which 0 are shared)
+
+System Menu
+ Title ID: 00000001-00000002
+ Version: 0x 280
+ Size: 20185310
+ Contents: 9 (of which 6 are shared)
+
+IOS37
+ Title ID: 00000001-00000025
+ Version: 0x181f
+ Size: 2080968
+ Contents: 15 (of which 14 are shared)
+
+IOS55
+ Title ID: 00000001-00000037
+ Version: 0x181f
+ Size: 2080968
+ Contents: 15 (of which 14 are shared)
+
+IOS56
+ Title ID: 00000001-00000038
+ Version: 0x171d
+ Size: 2080768
+ Contents: 15 (of which 14 are shared)
+
+IOS57
+ Title ID: 00000001-00000039
+ Version: 0x191f
+ Size: 2081068
+ Contents: 19 (of which 18 are shared)
+
+IOS61
+ Title ID: 00000001-0000003d
+ Version: 0x181e
+ Size: 2081768
+ Contents: 16 (of which 14 are shared)
+
+IOS80
+ Title ID: 00000001-00000050
+ Version: 0x1d20
+ Size: 2098152
+ Contents: 15 (of which 14 are shared)
+
+====== Titles Removed ======
+
+EULA hidden channel
+ Title ID: 00010008-48414b50
+ Version: 0x   3
+ Size: 9355264
+ Contents: 6 (of which 2 are shared)
+
+
+
+**************************** DETAILED DUMPS ****************************
+
+
+====== Titles Added ======
+
+IOS63
+ Title ID: 00000001-0000003f
+ Version: 0x1820
+ Size: 2179372
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-0000003f ('\x00\x00\x00\x01'-'\x00\x00\x00?')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x1820
+  Boot Index: 18
+  Contents:
+   ID       Index Type    Size         Hash
+   00000000 0     0x1     0x40         9a e9 63 a0 57 a4 69 b9 b2 5c 83 cf d6 34 6e 14 49 ab 9a 13
+   00000001 1     0x8001  0x887c       ab 15 fd 66 09 31 f5 2b 2d 57 91 5d fe f5 21 17 2e 22 6a 8b
+   00000002 2     0x8001  0x8258       4e 04 e8 8e c7 25 0d e8 4a 1e 78 8a e6 9f da d9 35 13 30 a8
+   00000003 3     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000004 4     0x8001  0x5ca0       0b c6 31 be d4 20 5f 18 a0 05 95 0f c7 46 a5 3c d4 e7 30 7b
+   00000005 5     0x8001  0x2a90       eb 3d be a9 dc bf 57 e4 46 35 4a e2 bd e1 d8 8c 65 6c 90 a7
+   00000006 6     0x8001  0x2a138      00 ef 2f 8b bc d2 08 eb 5e 64 cd 91 65 54 40 5a d3 4e cf d5
+   00000007 7     0x8001  0x5b1a4      e4 73 fd a0 35 15 12 40 d6 a6 f5 3c 50 36 9d 24 14 c3 6f 4d
+   00000008 8     0x8001  0x118a4      79 a9 f2 15 ea 9b 38 fd 08 5d a3 27 20 a7 d3 98 18 c8 70 1d
+   00000009 9     0x8001  0x6d57c      44 ca 68 b0 18 1d 6c 54 00 7e 66 37 d6 e9 35 07 4f 9e 06 82
+   0000000A 10    0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000B 11    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 12    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   0000000D 13    0x8001  0x28ac       7b 17 97 6f c2 0d 77 da 12 ca e4 36 ad 72 fe 8d 12 1a b4 d2
+   0000000E 14    0x8001  0x2d70       5d 08 25 ca da b0 73 a6 59 44 49 cb 37 0c 66 d1 53 ca 11 c2
+   0000000F 15    0x8001  0x1c28       8a 14 37 5f 68 90 95 c2 79 ae e9 0e bc e8 b3 7d 0c 39 e4 67
+   00000010 16    0x8001  0x29b4       d3 c2 3a 17 2a ff 83 78 05 f4 e6 b2 db 13 72 ae 93 6c e4 ed
+   00000011 17    0x8001  0x2cfc       cc 77 66 39 56 2b a2 98 d6 65 98 ef e0 34 0b 42 55 bf 4b 6c
+   00000012 18    0x8001  0x29504      e1 fb 37 90 ae ee 0f a3 c9 eb f1 09 f8 ec cc e8 4d 2a 50 a0
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 0f 61 8e 21 63 5c f4 79 8d b4 27 cf f5 0b 4e aa 85 b5 ec ab [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00?'
+  Title key IV: 00 00 00 01 00 00 00 3f 00 00 00 00 00 00 00 00
+  Title key (encrypted): 78 30 30 5c 41 70 72 69 6c 20 66 6f 6f 6c 73 21
+  Title key (decrypted): 54 69 74 6c 65 20 49 44 3a 20 27 5c 78 30 30 5c
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: e2 30 84 43 95 fa 41 05 c0 5b 35 66 8c 46 4c 72 20 2a 16 b6 [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+EULA hidden channel
+ Title ID: 00010008-48414b41
+ Version: 0x4
+ Size: 9355264
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 1-61
+  Title ID: 00010008-48414b41 ('\x00\x01\x00\x08'-'HAKA')
+  Title Type: 1
+  Group ID: '01'
+  Access Rights: 0x00000000
+  Title Version: 0x4
+  Boot Index: 5
+  Contents:
+   ID       Index Type    Size         Hash
+   00000000 0     0x1     0x40         21 7c 6f 7b 75 3f 07 ac 07 b5 3d 5b 25 c6 26 ed 8e 8e 8f ce
+   00000001 1     0x1     0x100000     ea 31 48 72 6f 01 98 47 bf 4e ee 76 d3 0b 43 aa 96 92 5f 4d
+   00000002 2     0x1     0xa8ca0      72 02 ed d2 da d6 ae e0 8f 92 33 ec 98 e3 42 d2 0d 70 fd 63
+   00000003 3     0x8001  0x45940f     f5 dd 17 b3 20 0d d4 d6 be 2b 25 b5 77 c9 9e 5f 94 1b 73 24
+   00000004 4     0x8001  0x28b9f4     32 b3 39 cb bb 50 7d 50 27 79 25 9a 78 66 99 5d 03 0b 1d 88
+   00000005 5     0x1     0x48500      33 ac 4d 5a 49 13 7e 87 30 ea 46 3a 4c 83 62 6c f2 80 9f 4a
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 52 4c 89 b9 ff 97 27 f5 f6 02 96 74 cb a2 b2 61 13 70 96 d1 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x01\x00\x08HAKE'
+  Title key IV: 00 01 00 08 48 41 4b 45 00 00 00 00 00 00 00 00
+  Title key (encrypted): 5a c6 78 02 c1 e1 5a 69 b9 61 94 5d 1e 68 47 6e
+  Title key (decrypted): 57 de a1 64 a6 93 e4 37 c4 22 0c c3 73 81 bc 9d
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 1a 41 4e 64 38 a5 bc 3e f4 ab f9 a5 10 2d 7c 09 3c b5 90 4c [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+
+====== Titles Changed ======
+
+boot2
+ Title ID: 00000001-00000001
+ Version: 0x   6
+ Size: 196608
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000001 ('\x00\x00\x00\x01'-'\x00\x00\x00\x01')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x6
+  Boot Index: 0
+  Contents:
+   ID       Index Type    Size         Hash
+   00000001 0     0x1     0x27be8      de fc 23 fb 4d 78 0a 2e 73 5e 02 b1 34 20 d3 26 14 d8 29 8a
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: f0 54 af 54 23 07 cd 23 85 b1 91 e1 9b ae 2c 91 8b b5 f4 b4 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00\x01'
+  Title key IV: 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00
+  Title key (encrypted): 6f 21 31 05 c7 f7 a3 11 c5 56 fd c5 79 7c 8c 3c
+  Title key (decrypted): 18 0d 12 9b 36 db c2 b9 09 4f 77 a3 4e 70 00 f6
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 1f 9e d1 2a ba 3c dd a2 58 7a da d7 ba f4 e4 af 9b 5d e0 6f [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+System Menu
+ Title ID: 00000001-00000002
+ Version: 0x280
+ Size: 20185088
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 1-80
+  Title ID: 00000001-00000002 ('\x00\x00\x00\x01'-'\x00\x00\x00\x02')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x280
+  Boot Index: 8
+  Contents:
+   ID       Index Type    Size         Hash
+   0000009F 0     0x1     0x40         1e 11 84 cb ee 19 a8 de dd f4 61 3b 48 28 91 dd 61 35 8e 98
+   00000100 1     0x1     0x634547     3f dc 74 d0 1b 26 d1 d4 db 29 0e 01 51 ea 56 8d c9 99 a7 e7
+   00000009 2     0x8001  0x45940f     f5 dd 17 b3 20 0d d4 d6 be 2b 25 b5 77 c9 9e 5f 94 1b 73 24
+   0000000A 3     0x8001  0x28b9f4     32 b3 39 cb bb 50 7d 50 27 79 25 9a 78 66 99 5d 03 0b 1d 88
+   0000000B 4     0x8001  0xa7984      5f 1b b7 b0 27 94 b1 4e 88 b7 22 69 a3 37 6d 23 05 1d ad 1d
+   0000000C 5     0x8001  0x37adfc     4f ad 97 fd 4a 28 8c 47 e0 58 7f 3b bd 29 23 79 f8 70 9e b9
+   00000059 6     0x8001  0x42880      29 3d 73 42 60 ac 99 f4 d3 de 75 31 0a 7d 27 34 66 f6 be 08
+   0000005A 7     0x8001  0xcfe0       53 4d 29 52 fe 2f 66 43 70 d8 36 4b 9a 0a 0d 1f 55 a0 59 31
+   00000101 8     0x1     0x3b0700     c0 66 4b 9f fb 1a 39 dc 3d 78 69 37 55 45 d9 87 8c f5 7c 3d
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 19 65 82 5b 58 a6 29 94 4a 87 30 42 92 a6 aa 11 a5 91 28 2f [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00\x02'
+  Title key IV: 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 00
+  Title key (encrypted): 86 1e a8 ce f9 81 3d 83 40 ce 2d 26 7d 00 b4 38
+  Title key (decrypted): 33 c5 c1 17 ae 51 c1 76 82 ff 9f 1c 85 f8 d2 0a
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: f2 07 b0 a8 4b 6b 11 d1 f5 61 bb ec d8 9f d0 3e c0 f9 b0 93 [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS37
+ Title ID: 00000001-00000025
+ Version: 0x181f
+ Size: 2080968
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000025 ('\x00\x00\x00\x01'-'\x00\x00\x00%')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x181f
+  Boot Index: 14
+  Contents:
+   ID       Index Type    Size         Hash
+   00000025 0     0x1     0x40         e6 b0 ff c6 11 49 92 7b 77 e0 7a 54 54 53 f0 68 fd 13 fe 64
+   00000026 1     0x8001  0x85f0       c5 f6 00 1e 9c 2b ad d8 bc 47 ba e3 d7 9e 28 9b ad 69 ef 6d
+   00000018 2     0x8001  0x6c94       e1 a7 17 94 6e f3 90 d9 ca 11 82 da e6 cb bb 61 f0 ac b0 cf
+   00000020 3     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000021 4     0x8001  0x2a38       60 15 44 52 03 1e 98 27 eb f7 a9 8f 55 a4 ef e1 43 e2 86 03
+   00000005 5     0x8001  0x29f7c      61 41 c3 6f 82 5a 62 09 3b 4b a2 8b 07 05 46 80 ec d4 69 a7
+   00000012 6     0x8001  0x58788      8a 79 33 81 c6 30 72 0e 46 e7 d6 6f ae 9e 8f 77 10 10 ee 3b
+   00000013 7     0x8001  0xf5b0       41 f6 57 42 94 b4 b3 5e 6e 40 14 35 a2 0c bd c0 9e 36 f5 3f
+   00000024 8     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 9     0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000A 10    0x8001  0x7778       aa 6b 00 01 47 dd 12 c8 38 e4 0e 58 b2 5d 3f 5f 51 05 85 f8
+   0000001D 11    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 12    0x8001  0x248c       3f 9f 7a c8 47 ae 7b c8 91 f0 ba ac 3d 51 9b d8 f1 a4 d1 aa
+   00000015 13    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   00000027 14    0x8001  0x27ec8      82 04 77 bd 2c a9 e6 c5 bf 12 60 8c ca ee 31 8b 4b 0d d7 ea
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: e9 99 a8 cb fd a7 64 19 73 87 eb f9 0f 48 f2 b9 4a 76 2a 1d [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00%'
+  Title key IV: 00 00 00 01 00 00 00 25 00 00 00 00 00 00 00 00
+  Title key (encrypted): 3f d0 4d 54 a2 11 8a bb d7 df 78 ab 8d 14 45 a2
+  Title key (decrypted): 4e ae 28 7e 27 db 39 1d 82 4b ab 61 63 6b dd 98
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 00 d9 11 ce 0b ed dc af 3a f8 f8 01 41 f1 d3 4a 65 bf 8b 0b [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS55
+ Title ID: 00000001-00000037
+ Version: 0x161f
+ Size: 2064384
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000037 ('\x00\x00\x00\x01'-'\x00\x00\x007')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x161f
+  Boot Index: 14
+  Contents:
+   ID       Index Type    Size         Hash
+   0000001A 0     0x1     0x40         fa 78 0f 9b c2 73 31 70 16 d2 be d1 94 ef b9 73 d1 c8 ce 51
+   0000001B 1     0x8001  0x85f0       c5 f6 00 1e 9c 2b ad d8 bc 47 ba e3 d7 9e 28 9b ad 69 ef 6d
+   00000002 2     0x8001  0x6c94       e1 a7 17 94 6e f3 90 d9 ca 11 82 da e6 cb bb 61 f0 ac b0 cf
+   00000003 3     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000016 4     0x8001  0x2a38       60 15 44 52 03 1e 98 27 eb f7 a9 8f 55 a4 ef e1 43 e2 86 03
+   00000005 5     0x8001  0x29f7c      61 41 c3 6f 82 5a 62 09 3b 4b a2 8b 07 05 46 80 ec d4 69 a7
+   00000006 6     0x8001  0x58788      8a 79 33 81 c6 30 72 0e 46 e7 d6 6f ae 9e 8f 77 10 10 ee 3b
+   00000007 7     0x8001  0xf5b0       41 f6 57 42 94 b4 b3 5e 6e 40 14 35 a2 0c bd c0 9e 36 f5 3f
+   00000019 8     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 9     0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000A 10    0x8001  0x7778       aa 6b 00 01 47 dd 12 c8 38 e4 0e 58 b2 5d 3f 5f 51 05 85 f8
+   00000013 11    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 12    0x8001  0x248c       3f 9f 7a c8 47 ae 7b c8 91 f0 ba ac 3d 51 9b d8 f1 a4 d1 aa
+   0000000D 13    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   0000001C 14    0x8001  0x27ec8      82 04 77 bd 2c a9 e6 c5 bf 12 60 8c ca ee 31 8b 4b 0d d7 ea
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 89 02 86 3c 27 93 32 80 77 2c 0b 33 4e f4 fb 1f 18 96 85 66 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x007'
+  Title key IV: 00 00 00 01 00 00 00 37 00 00 00 00 00 00 00 00
+  Title key (encrypted): 63 bd 84 ad 6c b6 90 c5 43 a1 85 df 08 ac f4 8e
+  Title key (decrypted): 03 bb 68 c6 3c ca 29 9e 97 db 3b b6 a1 ba fb 3d
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: b6 6e 22 bb 15 0d c7 45 7c cb 57 78 71 50 ba b7 3d c3 13 67 [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS56
+ Title ID: 00000001-00000038
+ Version: 0x171d
+ Size: 2080768
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000038 ('\x00\x00\x00\x01'-'\x00\x00\x008')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x171d
+  Boot Index: 14
+  Contents:
+   ID       Index Type    Size         Hash
+   0000001B 0     0x1     0x40         94 eb eb a7 0f 63 b1 90 21 1c 1a 66 c3 7f 10 68 26 4a 25 a4
+   0000001C 1     0x8001  0x8558       86 c3 79 e8 52 21 a7 5d 6b 34 aa 88 b1 cc b4 8f 98 74 08 0f
+   00000002 2     0x8001  0x6c94       e1 a7 17 94 6e f3 90 d9 ca 11 82 da e6 cb bb 61 f0 ac b0 cf
+   00000003 3     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000017 4     0x8001  0x2a90       eb 3d be a9 dc bf 57 e4 46 35 4a e2 bd e1 d8 8c 65 6c 90 a7
+   00000005 5     0x8001  0x2a138      00 ef 2f 8b bc d2 08 eb 5e 64 cd 91 65 54 40 5a d3 4e cf d5
+   00000006 6     0x8001  0x5b1a4      e4 73 fd a0 35 15 12 40 d6 a6 f5 3c 50 36 9d 24 14 c3 6f 4d
+   00000007 7     0x8001  0xf5b0       41 f6 57 42 94 b4 b3 5e 6e 40 14 35 a2 0c bd c0 9e 36 f5 3f
+   0000001A 8     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 9     0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000A 10    0x8001  0x7778       aa 6b 00 01 47 dd 12 c8 38 e4 0e 58 b2 5d 3f 5f 51 05 85 f8
+   00000014 11    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 12    0x8001  0x248c       3f 9f 7a c8 47 ae 7b c8 91 f0 ba ac 3d 51 9b d8 f1 a4 d1 aa
+   0000000D 13    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   0000001D 14    0x8001  0x29504      e1 fb 37 90 ae ee 0f a3 c9 eb f1 09 f8 ec cc e8 4d 2a 50 a0
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: f6 04 25 db 7b 40 8e 26 40 a1 e1 83 6f fd 31 f1 c4 59 6f 63 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x008'
+  Title key IV: 00 00 00 01 00 00 00 38 00 00 00 00 00 00 00 00
+  Title key (encrypted): 72 f6 48 d2 45 5d 1a 46 e3 83 e4 01 2d 80 6c 3f
+  Title key (decrypted): 40 a3 c4 32 df d5 f4 b0 23 ef 81 7b a6 fc 5c bd
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 23 d3 b8 f0 0b fe cd c8 0b 37 ff 34 c7 80 12 77 d3 0d e6 ca [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS57
+ Title ID: 00000001-00000039
+ Version: 0x191f
+ Size: 2081068
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000039 ('\x00\x00\x00\x01'-'\x00\x00\x009')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x191f
+  Boot Index: 18
+  Contents:
+   ID       Index Type    Size         Hash
+   0000001F 0     0x1     0x40         20 00 ff 7b 90 d0 bc 03 f3 d5 59 72 c3 fa be f4 6d fc b4 a6
+   00000020 1     0x8001  0x8558       86 c3 79 e8 52 21 a7 5d 6b 34 aa 88 b1 cc b4 8f 98 74 08 0f
+   00000002 2     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000003 3     0x8001  0x5ad8       38 ec fa 80 1e ae a6 24 b1 52 75 0c 8f cf ca 02 7f 36 6e 2c
+   00000019 4     0x8001  0x2a90       eb 3d be a9 dc bf 57 e4 46 35 4a e2 bd e1 d8 8c 65 6c 90 a7
+   00000005 5     0x8001  0x2a138      00 ef 2f 8b bc d2 08 eb 5e 64 cd 91 65 54 40 5a d3 4e cf d5
+   00000006 6     0x8001  0x5b1a4      e4 73 fd a0 35 15 12 40 d6 a6 f5 3c 50 36 9d 24 14 c3 6f 4d
+   0000001A 7     0x8001  0x118a4      79 a9 f2 15 ea 9b 38 fd 08 5d a3 27 20 a7 d3 98 18 c8 70 1d
+   0000001E 8     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 9     0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   00000014 10    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000B 11    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   0000000C 12    0x8001  0x28ac       fc 97 03 e3 09 02 1c 87 1b 7c 58 b1 12 5d 06 5f d5 84 aa 09
+   0000000D 13    0x8001  0x2d70       ca ad fb ee a7 78 61 6b d9 67 ce 0d 81 4a a7 76 dc 18 fd 64
+   0000000E 14    0x8001  0x1c14       75 7f 99 96 3e 92 3e f6 21 4d 57 6b 22 93 20 a0 d2 3a ab bd
+   0000000F 15    0x8001  0x2ce8       78 7a df bd 31 51 69 b4 cb 49 2a f2 20 1d 4d 29 f0 d7 b9 a9
+   00000010 16    0x8001  0x29b4       f2 b2 1d f6 28 1d 67 31 51 1f 1d 88 54 48 ef 85 1a 14 32 e9
+   0000001B 17    0x8001  0x2cfc       60 40 7c 21 28 48 e0 92 38 29 07 3c 95 58 c0 27 b3 78 d8 e2
+   00000021 18    0x8001  0x293d8      e1 fb 37 90 ae ee 0f a3 c9 eb f1 09 f8 ec cc e8 4d 2a 50 a0
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 58 42 b6 3c 7a f1 5d 45 92 4d ab 97 1a c9 ba 11 98 da 0f a9 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x009'
+  Title key IV: 00 00 00 01 00 00 00 39 00 00 00 00 00 00 00 00
+  Title key (encrypted): b1 0e 5f 49 e7 9a 59 62 f7 d0 a7 ae c8 33 68 8c
+  Title key (decrypted): 17 61 e7 62 17 55 43 1c d2 63 8f 9b fc 59 be 8c
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 9f 21 3a 24 e8 7d 4b 2a e2 fe 31 28 73 2e 77 8e 7a e0 c9 b3 [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS61
+ Title ID: 00000001-0000003d
+ Version: 0x181e
+ Size: 2081768
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-0000003d ('\x00\x00\x00\x01'-'\x00\x00\x00=')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x181e
+  Boot Index: 15
+  Contents:
+   ID       Index Type    Size         Hash
+   00000018 0     0x1     0x40         23 6d c2 11 e6 a2 60 b2 13 4e 5c 2a 0a ca f3 bc dd 3b 8d 9f
+   00000019 1     0x1     0x48500      49 a4 16 f2 45 f4 35 1b de 65 f9 b6 52 c6 dc 25 84 7f 72 49
+   0000001A 2     0x8001  0x8558       86 c3 79 e8 52 21 a7 5d 6b 34 aa 88 b1 cc b4 8f 98 74 08 0f
+   00000002 3     0x8001  0x6c94       e1 a7 17 94 6e f3 90 d9 ca 11 82 da e6 cb bb 61 f0 ac b0 cf
+   00000003 4     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000014 5     0x8001  0x2a90       eb 3d be a9 dc bf 57 e4 46 35 4a e2 bd e1 d8 8c 65 6c 90 a7
+   00000005 6     0x8001  0x2a138      00 ef 2f 8b bc d2 08 eb 5e 64 cd 91 65 54 40 5a d3 4e cf d5
+   00000006 7     0x8001  0x5b1a4      e4 73 fd a0 35 15 12 40 d6 a6 f5 3c 50 36 9d 24 14 c3 6f 4d
+   00000007 8     0x8001  0xf5b0       41 f6 57 42 94 b4 b3 5e 6e 40 14 35 a2 0c bd c0 9e 36 f5 3f
+   00000017 9     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 10    0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000A 11    0x8001  0x7778       aa 6b 00 01 47 dd 12 c8 38 e4 0e 58 b2 5d 3f 5f 51 05 85 f8
+   00000011 12    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 13    0x8001  0x248c       3f 9f 7a c8 47 ae 7b c8 91 f0 ba ac 3d 51 9b d8 f1 a4 d1 aa
+   0000000D 14    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   0000001B 15    0x8001  0x29612      5f 40 da 3f dc 78 91 52 62 30 3d c4 33 ca 3b 69 bc 40 b0 42
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: bc 95 39 12 e9 db 94 94 86 cb af 65 fc 75 76 be a7 5e dc ba [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00='
+  Title key IV: 00 00 00 01 00 00 00 3d 00 00 00 00 00 00 00 00
+  Title key (encrypted): 46 f0 af ef a6 75 ba 6a 02 5f f7 79 7f cc cd d2
+  Title key (decrypted): 4f 7e 17 d1 47 8b fe a2 cf dc eb 4b 7a f7 14 8b
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: e5 2f 63 49 30 60 9e 8c b2 bc 20 4f fc 05 f3 0c 5a 7b 1a 75 [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+IOS80
+ Title ID: 00000001-00000050
+ Version: 0x1d20
+ Size: 2098152
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 0-6
+  Title ID: 00000001-00000050 ('\x00\x00\x00\x01'-'\x00\x00\x00P')
+  Title Type: 1
+  Group ID: '\x00\x01'
+  Access Rights: 0x00000000
+  Title Version: 0x1d20
+  Boot Index: 14
+  Contents:
+   ID       Index Type    Size         Hash
+   00000011 0     0x1     0x40         09 d9 37 70 ae 43 67 77 e2 0c d1 dc 30 aa 24 2f 3a ad a3 fb
+   00000012 1     0x8001  0x8558       86 c3 79 e8 52 21 a7 5d 6b 34 aa 88 b1 cc b4 8f 98 74 08 0f
+   00000002 2     0x8001  0x6c94       e1 a7 17 94 6e f3 90 d9 ca 11 82 da e6 cb bb 61 f0 ac b0 cf
+   00000003 3     0x8001  0x3bf8       3b c9 e4 16 d3 fa 86 d0 a0 99 b8 2e ce 0a a7 ef f8 f5 9a 68
+   00000004 4     0x8001  0x2a90       eb 3d be a9 dc bf 57 e4 46 35 4a e2 bd e1 d8 8c 65 6c 90 a7
+   00000005 5     0x8001  0x2a138      00 ef 2f 8b bc d2 08 eb 5e 64 cd 91 65 54 40 5a d3 4e cf d5
+   00000006 6     0x8001  0x5b1a4      e4 73 fd a0 35 15 12 40 d6 a6 f5 3c 50 36 9d 24 14 c3 6f 4d
+   00000007 7     0x8001  0xf5b0       41 f6 57 42 94 b4 b3 5e 6e 40 14 35 a2 0c bd c0 9e 36 f5 3f
+   00000010 8     0x8001  0x6d5b0      d1 f6 0d 86 43 c8 dc b4 72 d8 41 5a 2e 45 8a 64 bc 5d 14 dc
+   00000009 9     0x8001  0xa64c       1d 18 53 55 81 5b f6 4c 45 71 71 35 e6 54 03 3b ab 0c 93 bc
+   0000000A 10    0x8001  0x7778       aa 6b 00 01 47 dd 12 c8 38 e4 0e 58 b2 5d 3f 5f 51 05 85 f8
+   0000000B 11    0x8001  0x4af0       ff 38 0d 01 88 fd 07 30 ba f8 37 d4 78 3e a6 a1 8c 84 7b 27
+   0000000C 12    0x8001  0x6f38       9a 8d 1f cd 38 b7 22 cc 6b 6a ba 3f f2 12 3c 00 7c 82 e5 19
+   0000000D 13    0x8001  0x7f330      51 37 d0 39 3c 98 09 7f 0d 59 70 6d 1c ee c2 2f 75 48 d6 0c
+   00000013 14    0x8001  0x293d8      2d 0d e9 8f 72 2e 74 c9 66 15 3a 14 f3 7b 6c 6e 24 b5 ae 90
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: b7 96 2b 7c f5 86 f5 ab 3e 29 74 2d 7a 5b 2d de 68 56 e7 29 [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x00\x00\x01\x00\x00\x00P'
+  Title key IV: 00 00 00 01 00 00 00 50 00 00 00 00 00 00 00 00
+  Title key (encrypted): e8 37 48 05 61 4e 29 dd b9 dc f1 67 a8 b5 32 13
+  Title key (decrypted): aa f9 4a 16 ee 43 96 c1 80 47 08 b2 63 38 b1 98
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: dc 44 1f 5c 9e 30 63 36 e6 b4 56 52 b8 5d e8 51 25 1d d9 5a [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
+
+====== Titles Removed ======
+
+EULA hidden channel
+ Title ID: 00010008-48414b50
+ Version: 0x3
+ Size: 9355264
+ TMD: 
+  Versions: 0, CA CRL 0, Signer CRL 0, System 1-56
+  Title ID: 00010008-48414b50 ('\x00\x01\x00\x08'-'HAKP')
+  Title Type: 1
+  Group ID: '01'
+  Access Rights: 0x00000000
+  Title Version: 0x3
+  Boot Index: 5
+  Contents:
+   ID       Index Type    Size         Hash
+   0000000B 0     0x1     0x40         ee b4 1c cf 74 3b cd 2b dc 3f a9 61 4a 2e 72 87 8b 24 a1 2b
+   0000000C 1     0x1     0x100000     32 a4 f9 b9 83 6f c1 11 c6 af 67 00 41 cc 24 05 5e b8 bd 2c
+   0000000D 2     0x1     0xa8ca0      72 02 ed d2 da d6 ae e0 8f 92 33 ec 98 e3 42 d2 0d 70 fd 63
+   00000003 3     0x8001  0x45940f     f5 dd 17 b3 20 0d d4 d6 be 2b 25 b5 77 c9 9e 5f 94 1b 73 24
+   00000004 4     0x8001  0x28b9f4     32 b3 39 cb bb 50 7d 50 27 79 25 9a 78 66 99 5d 03 0b 1d 88
+   0000000A 5     0x1     0x48500      33 ac 4d 5a 49 13 7e 87 30 ea 46 3a 4c 83 62 6c f2 80 9f 4a
+ TMD signed by Root-CA00000001-CP00000004 using RSA-2048: 7a 1a 52 09 ec 95 71 b1 6d 85 bc 54 30 85 ed a9 32 17 08 1c [OK]
+ TMD Certificates: 
+  - CP00000004 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: 8d 4f ff f1 ba f5 f0 07 b8 b4 bd f9 03 b5 00 ad e5 e8 20 fc [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+ ETicket: 
+  Title ID: '\x00\x01\x00\x08HAKP'
+  Title key IV: 00 01 00 08 48 41 4b 50 00 00 00 00 00 00 00 00
+  Title key (encrypted): 38 a3 19 6b d1 f2 c5 29 15 ea 24 45 69 9c 30 57
+  Title key (decrypted): 89 00 7c 20 a3 63 49 97 c9 6f c1 07 33 0b 72 55
+ ETicket signed by Root-CA00000001-XS00000003 using RSA-2048: 9a 88 36 d8 1c aa 13 af 72 64 04 0a 44 e4 9f 5e 70 cd 58 2f [OK]
+ ETicket Certificates: 
+  - XS00000003 (RSA-2048)
+     Certificate signed by Root-CA00000001 using RSA-2048: d7 0a a0 54 90 af 79 3e 49 10 af 47 9a 76 0f d2 75 f5 ad 12 [OK]
+  - CA00000001 (RSA-2048)
+     Certificate signed by Root using RSA-4096: 6f 47 c8 5c b1 aa ee 83 b1 1d 73 3f 19 fe 6c 7e 8e 2f e4 50 [OK]
+
